@@ -1,6 +1,6 @@
 /*
  
- Coded By Jayden
+ Coded By Ariahjay
 
 Modified File : command.js
 Modified Date : 8/23/2023
