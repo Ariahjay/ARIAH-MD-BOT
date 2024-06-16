@@ -1,14 +1,14 @@
-# JAY-MD-BOT
+# ARIAH-MD-BOT
 
-## Best Whatsapp Bot
+## Best Whatsapp Bot coded by Ariahjay
 
 
-  <a href="https://ibb.co/N6NMDtn"><img src="https://telegra.ph/file/7a0ada33ec9b812cea5f4.jpg" alt="01" border="0" /><                  
+  <a href="https://ibb.co/N6NMDtn"><img src="https://telegra.ph/file/f47e41a87b5598584d21c.jpg" alt="01" border="0" /><                  
 
 
 ## Join Whatsapp Group
 
-[Tap here open](https://chat.whatsapp.com/I4YnNl6k0Qh35b6GxSLcfj)
+[Tap here open](https://whatsapp.com/channel/0029VadMKr5CHDyqkvb0u30r)
 
 
 ## Deployment steps
@@ -29,7 +29,7 @@
 
 
 
-[Fork repo](https://github.com/jayden-official/JAY-MD-BOT/fork)
+[Fork repo](https://github.com/Ariahjay/ARIAH-MD-BOT/fork)
 
 
 
