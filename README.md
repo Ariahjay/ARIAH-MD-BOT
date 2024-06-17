@@ -33,7 +33,7 @@
 
 
 
-[Scan pairing code](https://ariahmd-ab25933e66c5.herokuapp.com/pair)
+[Scan pairing code](https://ariahjaytest-39007aed5d38.herokuapp.com/pair)
 
 
 
