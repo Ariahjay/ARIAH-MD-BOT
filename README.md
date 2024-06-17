@@ -37,11 +37,11 @@
 
 
 
-[Scan Qr](https://ariahmd-ab25933e66c5.herokuapp.com/qr)
+[Scan Qr](https://ariahjaytest-39007aed5d38.herokuapp.com/qr)
 
 
 
-[Full App](https://ariahmd-ab25933e66c5.herokuapp.com/qr)
+[Full App](https://ariahjaytest-39007aed5d38.herokuapp.com/qr)
 
 
 ### Thanks to god
