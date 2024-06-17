@@ -25,7 +25,7 @@
 4. Enjoy
 
 
-**[`Tap Here Deploy On Heroku`](https://dashboard.heroku.com/new?template=https://github.com/ibrahimaitech/jay-ai-bot)**
+**[`Tap Here Deploy On Heroku`](https://dashboard.heroku.com/new?template=https://github.com/Ariahjay/ARIAH-MD-BOT)**
 
 
 
