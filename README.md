@@ -33,15 +33,15 @@
 
 
 
-[Scan pairing code](https://ariahjaytest-39007aed5d38.herokuapp.com/pair)
+[Scan pairing code](https://ariahmd-5d58135bd419.herokuapp.com/pair)
 
 
 
-[Scan Qr](https://ariahjaytest-39007aed5d38.herokuapp.com/qr)
+[Scan Qr](https://ariahmd-5d58135bd419.herokuapp.com/qr)
 
 
 
-[Full App](https://ariahjaytest-39007aed5d38.herokuapp.com/qr)
+[Full App](https://ariahmd-5d58135bd419.herokuapp.com/qr)
 
 
 ### Thanks to god
