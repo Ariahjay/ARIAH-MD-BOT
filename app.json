@@ -1,7 +1,7 @@
 {
   "name": "Ariah MD  whatsapp",
   "description": "whatsapp md bot build with nodejs",
-  "repository": "https://github.com/Ariahjay-svg/ARIAH-MD-BOT",
+  "repository": "https://github.com/Ariahjay/ARIAH-MD-BOT",
   "logo": "https://telegra.ph/file/ec059aa5db556bbd951c6.jpg",
   "keywords": ["nodejs", "bot", "what5sapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
