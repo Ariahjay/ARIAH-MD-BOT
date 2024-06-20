@@ -29,5 +29,135 @@
     {
       "plan": "heroku-postgresql:essential-0"
     }
-  ]
+  ],
+  "env": {
+    "SESSION_ID": {
+      "description": "Your session ID",
+      "value": "your session id"
+    },
+    "POSTGRESQL_URL": {
+      "description": "Your PostgreSQL URL",
+      "value": "your POSTGRESQL url"
+    },
+    "BOT_LANG": {
+      "description": "Bot language",
+      "value": "EN"
+    },
+    "ANTI_BAD": {
+      "description": "Enable or disable anti bad words filter",
+      "value": "false"
+    },
+    "MAX_SIZE": {
+      "description": "Max size limit",
+      "value": "200"
+    },
+    "ONLY_GROUP": {
+      "description": "Enable or disable only group mode",
+      "value": "false"
+    },
+    "ANTI_LINK": {
+      "description": "Enable or disable anti link filter",
+      "value": "false"
+    },
+    "ANTI_BOT": {
+      "description": "Enable or disable anti bot filter",
+      "value": "false"
+    },
+    "ALIVE": {
+      "description": "Alive message",
+      "value": "default"
+    },
+    "FOOTER": {
+      "description": "Footer text",
+      "value": "Ariah 𝙼𝙳"
+    },
+    "LOGO": {
+      "description": "Logo URL",
+      "value": "https://github.com/Ariahjay/ARIAH-MD-BOT"
+    }
+  }
 }
+{
+  "name": "Ariah MD whatsapp",
+  "description": "whatsapp md bot build with nodejs",
+  "repository": "https://github.com/Ariahjay/ARIAH-MD-BOT",
+  "logo": "https://telegra.ph/file/ec059aa5db556bbd951c6.jpg",
+  "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    },
+    {
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+    },
+    {
+      "url": "https://github.com/DuckyTeam/heroku-buildpack-imagemagick"
+    },
+    {
+      "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git",
+      "required": false
+    }
+  ],
+  "formation": {
+    "worker": {
+      "quantity": 1,
+      "size": "basic"
+    }
+  },
+  "addons": [
+    {
+      "plan": "heroku-postgresql:essential-0"
+    }
+  ],
+  "env": {
+    "SESSION_ID": {
+      "description": "Your session ID",
+      "value": "your session id"
+    },
+    "POSTGRESQL_URL": {
+      "description": "Your PostgreSQL URL",
+      "value": "your POSTGRESQL url"
+    },
+    "BOT_LANG": {
+      "description": "Bot language",
+      "value": "EN"
+    },
+    "ANTI_BAD": {
+      "description": "Enable or disable anti bad words filter",
+      "value": "false"
+    },
+    "MAX_SIZE": {
+      "description": "Max size limit",
+      "value": "200"
+    },
+    "ONLY_GROUP": {
+      "description": "Enable or disable only group mode",
+      "value": "false"
+    },
+    "ANTI_LINK": {
+      "description": "Enable or disable anti link filter",
+      "value": "false"
+    },
+    "ANTI_BOT": {
+      "description": "Enable or disable anti bot filter",
+      "value": "false"
+    },
+    "ALIVE": {
+      "description": "Alive message",
+      "value": "default"
+    },
+    "FOOTER": {
+      "description": "Footer text",
+      "value": "Ariah 𝙼𝙳"
+    },
+    "LOGO": {
+      "description": "Logo URL",
+      "value": "https://github.com/Ariahjay/ARIAH-MD-BOT"
+    }
+  }
+}
+{
+  "name": "Ariah MD whatsapp",
+  "description": "whatsapp md bot build with nodejs",
+  "repository": "https://github.com/Ariahjay/ARIAH-MD-BOT",
+  "logo": "https://telegra.ph/file/ec059aa5db556bbd951c6.jpg",
