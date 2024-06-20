@@ -18,10 +18,10 @@
       "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
     },
         "required": false
-},	  
+  
                     
 
-  "formation": {
+}  "formation": {
   		"worker": {
 			"quantity": 1,
 			"size": "basic"
@@ -33,7 +33,7 @@
       "plan":"heroku-postgresql:essential-0"
     }
   ]
-    }
+    
   ],
    "formation": {
         "worker": {
